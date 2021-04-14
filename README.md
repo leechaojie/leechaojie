@@ -1,4 +1,4 @@
-- 👋 Hey,there
+- 👋 Hi there,
 - 👻 I’m @leechaojie
 - 👀 I’m interested in IT and games
 - 🌱 I’m currently learning the optimization of shell and web websites
