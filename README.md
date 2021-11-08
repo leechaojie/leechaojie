@@ -20,10 +20,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=leechaojie&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=leechaojie&show_icons=true&theme=dracula&hide_border=true">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaojie&show_icons=true&theme=dracula">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaojie&show_icons=true&theme=dracula&hide_border=true">
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leechaojie.leechaojie)
