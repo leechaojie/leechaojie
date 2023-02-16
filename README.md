@@ -14,7 +14,7 @@
 [![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go)](https://golang.google.cn/)
 [![MySQL](https://img.shields.io/badge/-MySQL-50789D?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=leechaojie&show_icons=true&theme=dracula&hide_border=true">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
