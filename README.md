@@ -9,8 +9,8 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)](https://www.typescriptlang.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-[![Vue](https://img.shields.io/badge/-Vue-64B587?style=flat-square&logo=Vue)](https://cn.vuejs.org)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://zh-hans.reactjs.org)
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://cn.vuejs.org)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://zh-hans.reactjs.dev)
 [![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go)](https://golang.google.cn/)
 [![MySQL](https://img.shields.io/badge/-MySQL-50789D?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 
