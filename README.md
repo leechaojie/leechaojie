@@ -1,7 +1,16 @@
 # Hi there 👋
 
-- 👀 I’m interested in IT and games
-- 🌱 I’m currently learning the TypeScript and JavaScript Data Structures and Algorithms
+🎨 I'm a passionate Frontend Engineer dedicated to building user-friendly and engaging web applications.
+
+👀 A bit about me:
+
+- I love exploring and implementing modern front-end technologies.
+- When I'm not coding, you might find me enjoying games on my Xbox 🎮 or hitting the gym 🏋️‍♂️ (yes, squats, deadlifts, and bench presses are totally my thing 💪)!
+
+🌱 What I’m currently learning:
+
+- Broadening my skill set with Java to explore the world of backend development.
+- Strengthening my knowledge of TypeScript, JavaScript, and Data Structures and Algorithms for efficient problem-solving.
 
 ## Technologies
 
